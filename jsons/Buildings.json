@@ -268,6 +268,7 @@
 		"name": "Temple of Artemis",
 		"culture": 1,
 		"isWonder": true,
+		"cost": 185,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Ranged] units [in this city]","Only available <after adopting [Honor]>"],
 		"requiredTech": "Archery",
@@ -1967,7 +1968,7 @@
 		"maintenance": 5,
 		"hurryCostModifier": 25,
 		"requiredTech": "Refrigeration",
-		"uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Artist] [in this city]","[+1 Culture] from every [Writer] [in this city]","[+1 Culture] from every [Musician] [in this city]","[+25]% [Culture] from every [Wonder]"]
+		"uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Artist] [in this city]","[+1 Culture] from every [Writer] [in this city]","[+1 Culture] from every [Musician] [in this city]","[+25]% [Culture] [in this city with a world wonder]"]
 	},
 	{
 		"name": "Broadcast Tower",
