@@ -1967,7 +1967,7 @@
 		"maintenance": 5,
 		"hurryCostModifier": 25,
 		"requiredTech": "Refrigeration",
-		"uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Artist]","[+1 Culture] from every [Writer]","[+1 Culture] from every [Musician]","[+25]% [Culture] from every [Wonder]"]
+		"uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Artist] [in this city]","[+1 Culture] from every [Writer] [in this city]","[+1 Culture] from every [Musician] [in this city]","[+25]% [Culture] from every [Wonder]"]
 	},
 	{
 		"name": "Broadcast Tower",
