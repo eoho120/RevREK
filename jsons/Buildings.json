@@ -1968,7 +1968,7 @@
 		"maintenance": 5,
 		"hurryCostModifier": 25,
 		"requiredTech": "Refrigeration",
-		"uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Artist] [in this city]","[+1 Culture] from every [Writer] [in this city]","[+1 Culture] from every [Musician] [in this city]","[+15]% [Culture] [in this city]"]
+		"uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Artist]","[+1 Culture] from every [Writer]","[+1 Culture] from every [Musician]","[+25]% [Culture] from every [Wonder]","Unbuildable"]
 	},
 	{
 		"name": "Broadcast Tower",
@@ -2085,7 +2085,7 @@
 		"maintenance": 5,
 		"hurryCostModifier": 0,
 		"requiredTech": "Radar",
-		"uniques": ["[+2 Culture] from every [Artist] [in this city]","[+2 Culture] from every [Writer] [in this city]","[+2 Culture] from every [Musician] [in this city]","[+15]% [Culture] [in this city]"]
+		"uniques": ["[+2 Culture] from every [Artist]","[+2 Culture] from every [Writer]","[+2 Culture] from every [Musician]","[+25]% [Culture] from every [Wonder]","Unbuildable"]
 	},
 	{
 		"name": "CN Tower",
@@ -2164,7 +2164,7 @@
 		"cost": 400,
 		"isNationalWonder": true,
 		"requiredTech": "Telecommunications",
-		"uniques": ["[+3 Culture] from every [Artist] [in this city]","[+3 Culture] from every [Writer] [in this city]","[+3 Culture] from every [Musician] [in this city]","[+30]% [Culture] [in this city]","Requires a [Hotel] in all cities", "Cost increases by [30] per owned city"]
+		"uniques": ["[+3 Culture] from every [Artist]","[+3 Culture] from every [Writer]","[+3 Culture] from every [Musician]","[+50]% [Culture] from every [Wonder]","Requires a [Hotel] in all cities", "Cost increases by [30] per owned city","Unbuildable"]
 	},
 	{
 		"name": "Hubble Space Telescope",
